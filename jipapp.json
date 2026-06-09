@@ -1,0 +1,28 @@
+{
+    "lines": [
+      {
+        "question": "Tell me about yourself.",
+        "topic": "Recruiter",
+        "edition": false,
+        "explanation": "This is a common opener to understand your background and how you present yourself.",
+        "answer": "I am a 25-year-old with a background in customer service and administrative work, complemented by a strong passion for personal development, languages, and web development. I enjoy learning, and I’m a highly organized, punctual person who is dedicated to growing both personally and professionally.",
+        "example": "..."
+      },
+      {
+        "question": "Why do you want to work here?",
+        "topic": "Recruiter",
+        "edition": false,
+        "explanation": "This question helps gauge your motivation and interest in the company.",
+        "answer": "I am looking for an opportunity to grow in an organization that values curiosity, development, and the contributions of its team. I’m drawn to companies that align with my values of continuous learning and creativity, as well as those that foster a collaborative environment.",
+        "example": "..."
+      },
+      {
+        "question": "What are your strengths?",
+        "topic": "Recruiter",
+        "edition": false,
+        "explanation": "Understanding your strengths shows the value you bring to the role.",
+        "answer": "I am highly organized and punctual, with a strong ability to learn and adapt quickly. My creativity helps me approach challenges in unique ways, and I am deeply committed to self-improvement, as shown by my dedication to learning new languages and technical skills such as web development.",
+        "example": "..."
+      }
+    ]
+}
